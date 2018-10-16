@@ -8,7 +8,7 @@ s.summary = "Common files for all swift projects"
 s.requires_arc = true
 
 # 2
-s.version = "2.0.0"
+s.version = "2.0.1"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }
@@ -32,7 +32,7 @@ s.source = { :git => "https://github.com/maheshasabe/swiftcommonfiles.git",
 s.source_files = "swiftcommonfiles/**/*.{swift}"
 
 # 9
-s.resources = "swiftcommonfiles/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+# s.resources = "swiftcommonfiles/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "4.0"
