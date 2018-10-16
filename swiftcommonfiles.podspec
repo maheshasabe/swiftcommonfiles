@@ -8,7 +8,7 @@ s.summary = "Common files for all swift projects"
 s.requires_arc = true
 
 # 2
-s.version = "2.0.1"
+s.version = "2.0.2"
 
 # 3
 s.license = { :type => "MIT", :file => "LICENSE" }

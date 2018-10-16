@@ -8,7 +8,7 @@
 
 import UIKit
 
-class TestClass: NSObject {
+public class TestClass: NSObject {
 
     public class func getName() -> String {
         return "Mahesh"
