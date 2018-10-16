@@ -11,6 +11,7 @@
 		EE45D7AF2175ED4A00CB4C87 /* swiftcommonfilesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE45D7AE2175ED4A00CB4C87 /* swiftcommonfilesTests.swift */; };
 		EE45D7B12175ED4B00CB4C87 /* swiftcommonfiles.h in Headers */ = {isa = PBXBuildFile; fileRef = EE45D7A32175ED4A00CB4C87 /* swiftcommonfiles.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EE45D7BB2175ED7F00CB4C87 /* TestClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE45D7BA2175ED7F00CB4C87 /* TestClass.swift */; };
+		EE45D7BC2175F53600CB4C87 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EE45D7A42175ED4A00CB4C87 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -181,6 +182,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EE45D7BC2175F53600CB4C87 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
